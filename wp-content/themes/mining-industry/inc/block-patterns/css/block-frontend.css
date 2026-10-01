@@ -1,0 +1,305 @@
+.group-conatiner{
+  background: black !important;
+  height: 581px !important;
+  margin-top: -59px !important;
+}
+.cover-img{
+  margin: 10px 6% 10px 6% !important;
+  border-radius: 30px  !important;
+}
+.silder-btn{
+  background: linear-gradient(90deg, #F34F1F 0%, #B53A17 100%);
+  border-radius: 4px;
+  padding: 2px 12px;
+  display: inline-block;
+  display: table-cell;
+  clip-path:polygon(0% 13.333%, 0% 13.333%, 0.024% 11.171%, 0.092% 9.119%, 0.202% 7.206%, 0.349% 5.459%, 0.53% 3.905%, 0.741% 2.573%, 0.978% 1.488%, 1.238% 0.68%, 1.516% 0.175%, 1.81% 0%, 97.83% 0%, 97.83% 0%, 98.197% 0.27%, 98.535% 1.041%, 98.839% 2.253%, 99.102% 3.846%, 99.319% 5.76%, 99.485% 7.936%, 99.594% 10.315%, 99.64% 12.835%, 99.618% 15.438%, 99.522% 18.064%, 95.744% 91.397%, 95.744% 91.397%, 95.652% 92.897%, 95.538% 94.28%, 95.403% 95.539%, 95.25% 96.663%, 95.08% 97.641%, 94.896% 98.463%, 94.699% 99.121%, 94.491% 99.602%, 94.275% 99.899%, 94.052% 100%, 1.81% 100%, 1.81% 100%, 1.516% 99.825%, 1.238% 99.32%, 0.978% 98.512%, 0.741% 97.427%, 0.53% 96.095%, 0.349% 94.541%, 0.202% 92.794%, 0.092% 90.881%, 0.024% 88.829%, 0% 86.667%, 0% 13.333%);
+}
+.info-section h2{
+  margin-top: 37px !important;
+}
+.info-section {
+  font-size: 36px;
+  line-height: 1.4;
+  font-weight: 700;
+  border-left: 3px solid #F34F1F;
+  padding-left: 10px;
+  -webkit-line-clamp: 2;
+}
+.silder-info-sec p{
+  margin-right: 61% !important;
+  margin-top: 10px  !important;
+  margin-bottom: 3% !important;
+}
+.explore-btn{
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 4px;
+  padding: 10px 25px;
+  display: inline-block;
+  display: table-cell !important;
+}
+.slider-box-container{
+  gap: 10px !important;
+}
+.slider-box-container img{
+  border: 4px solid #0000;
+  width: 90% !important;
+  height: 90% !important;
+  border-radius: 50% !important;
+  padding: 10px 10px 10px 10px !important;
+}
+.project-info{
+  margin-top: 8% !important;
+}
+.box-img-container i{
+  font-size: 40px !important;
+  margin: 0  !important;
+}
+.box-img-container{
+  width: max-content !important;
+  background: #0000008C;
+  border-radius: 10px;
+  height: 125px;
+  margin-left: 145% !important;
+  margin-top: 1px !important;
+}
+.box-img-container img{
+  width: 85px !important;
+  height: 85px !important;
+  border-radius: 100px !important;
+  border: 4px solid !important; 
+  margin: 2px 2px 2px 2px !important;
+}
+.box-img-container img:hover{
+  background-color: #F34F1F !important;
+}
+.project-btn{
+  display: inline-block;
+  clip-path: polygon(0% 13.333%, 0% 13.333%, 0.024% 11.171%, 0.092% 9.119%, 0.202% 7.206%, 0.349% 5.459%, 0.53% 3.905%, 0.741% 2.573%, 0.978% 1.488%, 1.238% 0.68%, 1.516% 0.175%, 1.81% 0%, 97.83% 0%, 97.83% 0%, 98.197% 0.27%, 98.535% 1.041%, 98.839% 2.253%, 99.102% 3.846%, 99.319% 5.76%, 99.485% 7.936%, 99.594% 10.315%, 99.64% 12.835%, 99.618% 15.438%, 99.522% 18.064%, 95.744% 91.397%, 95.744% 91.397%, 95.652% 92.897%, 95.538% 94.28%, 95.403% 95.539%, 95.25% 96.663%, 95.08% 97.641%, 94.896% 98.463%, 94.699% 99.121%, 94.491% 99.602%, 94.275% 99.899%, 94.052% 100%, 1.81% 100%, 1.81% 100%, 1.516% 99.825%, 1.238% 99.32%, 0.978% 98.512%, 0.741% 97.427%, 0.53% 96.095%, 0.349% 94.541%, 0.202% 92.794%, 0.092% 90.881%, 0.024% 88.829%, 0% 86.667%, 0% 13.333%);
+  background: linear-gradient(90deg, rgb(243, 79, 31) 0%, rgb(181, 58, 23) 100%);
+  border-radius: 4px;
+  padding: 6px 22px;
+}
+.project-line{
+  font-size: 36px;
+  line-height: 1.4;
+  font-weight: 800px;
+  border-left: 3px solid #F34F1F;
+  padding-left: 10px;
+  -webkit-line-clamp: 2;
+}
+.slider-info-sec{
+  display: unset !important;
+}
+.info-section h2{
+  font-size: 34px;
+  margin-right: 57% !important;
+  margin-top: 37px !important;
+}
+.silder-info-sec{
+  margin-left: 4%  !important;
+  margin-bottom: -20% !important;
+}
+.silder-info-sec p{
+  margin-right: 62% !important;
+}
+.project-info h2{
+  margin-top: 18px  !important;
+}
+.image-conatiner{
+  border-radius: 20px !important;
+  margin-top: 10px !important;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2) !important;
+}
+.card-sections{
+  gap:0 !important;
+}
+.image-card{
+  padding: 14px !important;
+  width: 374px !important;
+  border-right: 1px solid rgba(0, 0, 0, 0.063)!important;
+}
+.image-card img{
+  height: 300px  !important;
+  border-radius: 10px !important;
+  object-fit: cover !important;
+}
+.image-card:hover{
+  background: linear-gradient(154.01deg, #F34F1F 8.22%, #B53A17 98.81%) !important;
+  color: white !important;
+}
+.image-card:hover h5,.image-card:hover p{
+  color: #fff;
+}
+@media screen and (min-width: 320px) and (max-width: 767px){
+.wp-block-column.is-vertically-aligned-bottom, .wp-block-column.is-vertically-aligned-center, .wp-block-column.is-vertically-aligned-top{
+  width: unset !important; 
+}
+.box-img-container i {
+  font-size: 15px !important;
+  margin: -4px !important;
+}
+.info-section h2 {
+  margin-right: 0 !important;
+  font-size: 26px !important;
+}
+.silder-info-sec p{
+  margin-right: 0 !important;
+  margin-bottom: 12% !important;
+} 
+.slider-info-sec p{
+  text-align: center !important;
+  margin-bottom: 6% !important;
+}
+.explore-btn{
+  display: table-cell !important;
+}
+.box-container{
+  display: flex;
+  flex-direction: column-reverse;
+  background: #0000008C  !important;
+  border-radius: 12px !important;
+  margin-top: 25px !important;
+}
+.fisrt-box{
+  display: flow;
+  margin-top: -73px !important;
+  margin-bottom: -27px !important;
+}
+.box-content{
+  display: ruby-text !important;
+}
+.box-img-container{
+  background:0 !important;
+  width: max-content !important;
+  margin-left: 0 !important;
+}
+.box-img-container img {
+  width: 60px !important;
+  height: 60px !important;
+  margin: 0!important;
+  object-fit: cover !important;
+  border-radius: 100px !important;
+}
+.project-info{
+  margin-top: 35% !important;
+  margin-left: 10px !important;
+}
+.project-info h2{
+  font-size: 22px !important;
+} 
+.project-info P{
+  font-size: 15px !important;
+}
+.image-card{
+  text-align: center;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis] {
+  flex-grow: 1;
+}
+.box-img-container i {
+  font-size: 22px !important;
+  margin-left: 7px !important;
+}
+.silder-btn{
+  display: table-cell;
+} 
+.slider-info-sec{
+  display: unset !important;
+}
+.info-section h2{
+  font-size: 34px;
+  margin-right: 22% !important;
+  margin-top: 37px !important;
+}
+.silder-info-sec p{
+  margin-right: 20% !important;
+}
+.explore-btn{
+  display: table-cell !important;
+}
+.box-img-container{
+  margin-left: 0 !important;
+  margin-left: 53% !important;
+}
+.project-info h2{
+  font-size: 25px !important;
+} 
+.project-info P{
+  font-size: 15px !important;
+}
+.box-container{
+  flex-wrap: unset !important;
+}
+.card-sections{
+  display: grid !important;
+  grid-template-columns: auto auto !important;
+  justify-content: center !important;
+  object-fit: cover !important;
+}
+.image-card {
+  width: 100%  !important;
+}
+.project-info {
+  margin-top: 17% !important;
+  margin-left: 10px !important;
+}
+.box-img-container img {
+  width: 60px !important;
+  height: 60px !important;
+  margin: 0!important;
+  object-fit: cover !important;
+  border-radius: 100px !important;
+}
+}
+@media screen and (min-width: 992px) and (max-width: 1199px){
+.silder-btn{
+  display: table-cell;
+} 
+.explore-btn{
+  display: table-cell !important;
+}
+.slider-info-sec{
+  display: unset !important;
+}
+.info-section h2{
+  font-size: 34px;
+  margin-right: 22% !important;
+  margin-top: 37px !important;
+}
+.silder-info-sec p{
+  margin-right: 20% !important;
+}
+.image-card img{
+  height: 200px !important;
+}
+.card-sections h5{
+  font-size: 18px !important
+}
+.card-sections p{
+  font-size: 14px !important;
+}
+.project-info {
+  margin-top: 17% !important;
+  margin-left: 10px !important;
+}
+.box-img-container{
+  margin-left: 124% !important;
+}
+.box-img-container img {
+  width: 60px !important;
+  height: 60px !important;
+  margin: 0!important;
+  object-fit: cover !important;
+  border-radius: 100px !important;
+}
+}
+@media screen and (min-width: 1200px) and (max-width: 1798px){
+  .box-img-container{
+    margin-left: 118% !important;
+  }
+}
+  
